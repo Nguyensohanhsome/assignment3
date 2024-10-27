@@ -1,0 +1,64 @@
+.anh {
+  width: 800px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.container {
+  position: relative;
+  color: #ffffff;
+}
+.centre {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.khoangcach {
+  align-items: center;
+  text-align: center;
+}
+.khoangcach i {
+  color: #199cdb;
+}
+.inline {
+  display: inline-block;
+  font-size: 30px;
+}
+.inline1 {
+  display: inline-block;
+  font-size: 20px;
+}
+.bienmat {
+  display: none;
+}
+
+.border1 {
+  border-bottom: 3px solid #dbc89c;
+}
+.border2 {
+  border-right: none;
+}
+.anh1 {
+  width: 400px;
+}
+.anh2 {
+  width: 245px;
+}
+.inline1 {
+  display: block;
+  font-size: 20px;
+}
+.inline1 h4 {
+  font-size: 19px;
+}
+.inline2 {
+  color: black;
+  font-size: 20px;
+  display: inline-block;
+}
+.inline3 {
+  display: inline-block;
+  font-size: 30px;
+}
